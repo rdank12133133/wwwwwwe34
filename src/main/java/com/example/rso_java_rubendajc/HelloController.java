@@ -1,4 +1,4 @@
-package com.example.rso_java_majdonko;
+package com.example.rso_java_rubendajc;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

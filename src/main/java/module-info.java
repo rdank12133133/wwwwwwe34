@@ -1,4 +1,4 @@
-module com.example.rso_java_majdonko {
+module com.example.rso_java_rubendajc {
     requires javafx.controls;
     requires javafx.fxml;
 
@@ -6,6 +6,6 @@ module com.example.rso_java_majdonko {
     requires com.dlsc.formsfx;
     requires org.kordamp.ikonli.javafx;
 
-    opens com.example.rso_java_majdonko to javafx.fxml;
-    exports com.example.rso_java_majdonko;
+    opens com.example.rso_java_rubendajc to javafx.fxml;
+    exports com.example.rso_java_rubendajc;
 }
